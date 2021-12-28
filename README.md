@@ -2,6 +2,7 @@
 
 # Connect with me
 
+[![image](https://img.shields.io/badge/-TISTORY-brightgreen)](https://hwan33.tistory.com/)
 [![image](https://img.shields.io/badge/Velog-1DA1F2?style=for-the-badge)](https://velog.io/@hahahaa8642)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hahahaa8642@gmail.com)
 
@@ -26,4 +27,4 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyongyongkr&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ___
 
-Last Edit : 10/26/2021
+Last Edit : 2021/12/29
