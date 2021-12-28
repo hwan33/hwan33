@@ -2,9 +2,9 @@
 
 # Connect with me
 
-[![image](https://img.shields.io/badge/-TISTORY-brightgreen)](https://hwan33.tistory.com/)
-[![image](https://img.shields.io/badge/Velog-1DA1F2?style=for-the-badge)](https://velog.io/@hahahaa8642)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hahahaa8642@gmail.com)
+[![image](https://img.shields.io/badge/-TISTORY-lightgrey)](https://hwan33.tistory.com/)
+[![image](https://img.shields.io/badge/-VELOG-brightgreen)](https://velog.io/@hahahaa8642)
+[![image](https://img.shields.io/badge/-GMAIL-red)](mailto:hahahaa8642@gmail.com)
 
 # Languages
   
