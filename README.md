@@ -1,13 +1,17 @@
-### Hi there👋
-
 # Connect with me
 
 [![image](https://img.shields.io/badge/-TISTORY-lightgrey)](https://hwan33.tistory.com/)
 [![image](https://img.shields.io/badge/-VELOG-brightgreen)](https://velog.io/@hahahaa8642)
 [![image](https://img.shields.io/badge/-GMAIL-red)](mailto:hahahaa8642@gmail.com)
 
-# Activities
+<br>
 
-### Github Stats
+# OpenSource Activities
 
-[![용환's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwan33)](https://github.com/anuraghazra/github-readme-stats)
+## Spring Data Commons
+
+https://github.com/spring-projects/spring-data-commons/pulls?q=author%3Ahwan33+
+
+## java-design-patterns
+
+https://github.com/iluwatar/java-design-patterns/pulls?q=author%3Ahwan33+
