@@ -9,9 +9,9 @@
 # 🚀 OpenSource Activities
 
 ## Spring Data Commons 🌱
-A brief description or notable contribution if any.
+A brief description or notable contribution if any.<br>
 [🔍 more details](https://github.com/spring-projects/spring-data-commons/pulls?q=author%3Ahwan33+)
 
 ## java-design-patterns 📚
-Another description or notable contribution if any.
+Another description or notable contribution if any.<br>
 [🔍 more details](https://github.com/iluwatar/java-design-patterns/pulls?q=author%3Ahwan33+)
